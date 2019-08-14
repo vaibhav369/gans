@@ -16,7 +16,7 @@ This project generates images which mimic the distribution of images in the popu
 ### conditional-gan
 Whereas the previous project generated images from the sample space of fashion-mnist dataset, we had no control over what image we wanted to generate. This GAN accepts a parameter, which can be used to generate a specific type of image, say (image of a sandal)
 
-[!One of the images while training](https://github.com/vaibhav369/gans/blob/master/conditional_gan/75.jpg)
+![One of the images while training](https://github.com/vaibhav369/gans/blob/master/conditional_gan/75.jpg)
 
 ### 3d shape-generation
 In the rest of the projects, we work with the familiar pixels. Here, the only major difference is that we are working with voxels i.e. volumetric pixels. These voxels are used to construct 3d images. Using techniques similar to fashion-mnist, we generate 3d images
